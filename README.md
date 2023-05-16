@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faizan</h1>
 <h3 align="center">A Passionate Data Scientist Engineer</h3>
-<img aligen="right" alt="Coding" width="400" src="C:\Users\91630\OneDrive\Desktop\programmer.gif"
+<img aligen="right" alt="Coding" width="400" src=https://www.google.com/search?rlz=1C1RXQR_enIN993IN993&q=animated+coding+gif&tbm=isch&source=univ&fir=ITaGGdoGDaxxhM%252Cyw3WajrVF6gxGM%252C_%253BzhjSEq0Xd_DH7M%252CCJdgcKdcN0j58M%252C_%253B-ZNRscr8kcjyFM%252CwC1y6bJ6OPI5TM%252C_%253Bdbrfb5dvHO4gVM%252CCJdgcKdcN0j58M%252C_%253Bbm-5ttG2JLMj3M%252CfdH4pIgsIPIsqM%252C_%253B4EohS9e2g4qUPM%252CmdVHPyU3lxttxM%252C_%253BsDc0a5ilIqY_XM%252CP8Ywr8nqIHzn_M%252C_%253B55jyr3BK5duBpM%252CCJdgcKdcN0j58M%252C_%253Bz9e00eCt21ZB_M%252C27cE5w3VYsCxRM%252C_%253Bu2F9JQCGTgKJwM%252CDjMcDTxMfmhRGM%252C_%253BQuqbC-xCVJtgOM%252CHs38mEIbhvwnsM%252C_%253BK90mQoZelMMeAM%252CNkNxnHuF1LHp6M%252C_&usg=AI4_-kSoxVvCqTzrhBJWuSpErB4Q51K19Q&sa=X&ved=2ahUKEwjZo7bjkPn-AhWlS2wGHYq0AEYQ7Al6BAgSEGc&biw=1536&bih=746&dpr=1.25#imgrc=ZmOH4FBlhx83-M
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiz07&label=Profile%20views&color=0e75b6&style=flat" alt="faiz07" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
